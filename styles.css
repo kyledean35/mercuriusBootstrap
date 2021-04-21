@@ -1,0 +1,90 @@
+body {
+    font-family: "Open Sans", sans-serif; }
+  
+  h1, h2, h3 {
+    font-family: 'Texturina', serif;
+  }
+
+  h1{
+    font-size: 80px;
+    color: rgba(255, 255, 255, 0.942);
+    -webkit-text-stroke-width: 3.2px;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0.908);
+  }
+
+  h2{
+    font-size: 35px;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.942);
+    -webkit-text-stroke-width: 2.1px;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0.908);
+  }
+
+
+.bodyPadding{
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+.bodyHeader{
+  color:rgb(190, 168, 42);
+  font-size: 50px;
+}
+
+.bodyText{
+  color: white;
+  size: 20px;
+
+}
+
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+.tvOutline{
+    outline:7px solid rgb(190, 168, 42);
+    background-color: black;
+}
+  
+  .site-footer {
+    background-image: url("../img/footer.png");
+    background-size: cover;
+    background-position: bottom;
+    padding-bottom: 100px; 
+    padding-top:20px;
+  }
+.oingecko-coin-price-chart-widget{
+  padding: 100px;
+  }
+
+h5{
+    color: black;
+    font-size: 35px;
+}
+
+  .lnk{
+      color: black;
+      text-decoration: underline;
+  }
+
+  #logo{
+    padding-bottom: 60px;
+  }
+  
+  .jumbotron {
+    margin: 0;
+    padding:60px;
+    background-image: url("../img/background.jpeg");
+    background-color: rgba(140, 126, 44, 0.86);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+    color: white; }
+  
+
+  
+  .navbar {
+    background-color:black;
+   
+ }
+  
